@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e4269fd1-2b2b-4a97-8106-aef73a8e4a10",
+    "name": "SEC",
+    "season": 2026,
+    "buyInAmount": 100.0,
+    "commissionerId": "user_1768072518365",
+    "inviteCode": "KUXCEM",
+    "conference": "SEC",
+    "isActive": true,
+    "createdAt": "2026-01-10T13:15:31.552911",
+    "updatedAt": "2026-01-10T13:15:31.552911"
+  }
+]
