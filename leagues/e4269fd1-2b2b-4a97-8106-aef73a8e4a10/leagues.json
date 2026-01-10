@@ -1,13 +1,28 @@
 [
   {
-    "id": "e04b9a0a-1967-42f6-aa1d-f2a92132f6a0",
-    "memberId": "1abb9016-dc80-46a4-a428-3b6a8df4419f",
+    "id": "1abb9016-dc80-46a4-a428-3b6a8df4419f",
+    "userId": "user_1768072518365",
+    "email": "ash@test.com",
+    "displayName": "Ash",
     "leagueId": "e4269fd1-2b2b-4a97-8106-aef73a8e4a10",
-    "gameId": "d2d5e649-4e7e-4998-ae6b-7ee63eefe681",
-    "teamPickedId": "georgia",
-    "week": 1,
-    "result": "pending",
-    "createdAt": "2026-01-10T13:16:40.867329",
-    "updatedAt": "2026-01-10T13:16:40.867329"
+    "isEliminated": false,
+    "eliminatedWeek": null,
+    "eliminatedByGameId": null,
+    "buyInPaid": true,
+    "joinedAt": "2026-01-10T13:15:31.557792",
+    "updatedAt": "2026-01-10T13:15:31.557792"
+  },
+  {
+    "id": "a38c0574-0765-4dc5-869b-4bc56e3a0951",
+    "userId": "user_1768072638342",
+    "email": "kristen@test.com",
+    "displayName": "Kristen",
+    "leagueId": "e4269fd1-2b2b-4a97-8106-aef73a8e4a10",
+    "isEliminated": false,
+    "eliminatedWeek": null,
+    "eliminatedByGameId": null,
+    "buyInPaid": false,
+    "joinedAt": "2026-01-10T13:17:23.351177",
+    "updatedAt": "2026-01-10T13:17:23.351177"
   }
 ]
