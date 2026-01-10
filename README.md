@@ -1,0 +1,1 @@
+# eliminator-league-data
