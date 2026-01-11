@@ -1,28 +1,24 @@
 [
   {
-    "id": "56c9b56a-97da-4dc4-9535-5492a622e89e",
-    "userId": "user_1768085459790",
-    "email": "ash",
-    "displayName": "Ash",
+    "id": "5ebccd39-8e46-47b8-9d77-0a726d276686",
+    "memberId": "56c9b56a-97da-4dc4-9535-5492a622e89e",
     "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
-    "isEliminated": false,
-    "eliminatedWeek": null,
-    "eliminatedByGameId": null,
-    "buyInPaid": true,
-    "joinedAt": "2026-01-10T18:34:52.261018",
-    "updatedAt": "2026-01-10T18:34:52.261018"
+    "gameId": "9a4c2154-96ac-49e9-8a78-dc35aedc0481",
+    "teamPickedId": "alabama",
+    "week": 1,
+    "result": "pending",
+    "createdAt": "2026-01-10T18:35:17.968135",
+    "updatedAt": "2026-01-10T18:35:17.968135"
   },
   {
-    "id": "16886b0b-cfe0-407b-8f82-cb81d42fa237",
-    "userId": "user_1768105909410",
-    "email": "Kristen",
-    "displayName": "Kristen",
+    "id": "1d38926a-57ba-4f42-8bf3-29e190f28c52",
+    "memberId": "16886b0b-cfe0-407b-8f82-cb81d42fa237",
     "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
-    "isEliminated": false,
-    "eliminatedWeek": null,
-    "eliminatedByGameId": null,
-    "buyInPaid": true,
-    "joinedAt": "2026-01-10T22:32:28.203142",
-    "updatedAt": "2026-01-10T22:32:52.312516"
+    "gameId": "0a735eb7-1fdc-4a1a-950b-2ece708d0459",
+    "teamPickedId": "georgia",
+    "week": 1,
+    "result": "pending",
+    "createdAt": "2026-01-10T22:37:00.937221",
+    "updatedAt": "2026-01-10T22:37:00.937221"
   }
 ]
