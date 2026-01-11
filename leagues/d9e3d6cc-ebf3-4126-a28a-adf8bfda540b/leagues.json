@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f4f607e0-936d-4d80-817b-c1a54e66b63e",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 1,
+    "lockInDeadline": "2026-01-16T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.199468",
+    "updatedAt": "2026-01-10T18:35:05.199468"
+  },
+  {
+    "id": "45a87c7d-ebbf-4b25-8431-3138bb80a168",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 2,
+    "lockInDeadline": "2026-01-23T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.202978",
+    "updatedAt": "2026-01-10T18:35:05.202979"
+  },
+  {
+    "id": "eb2d55f3-5875-4e15-a8dc-3bd568e8aa24",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 3,
+    "lockInDeadline": "2026-01-30T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.206054",
+    "updatedAt": "2026-01-10T18:35:05.206054"
+  },
+  {
+    "id": "636e3fce-f727-47a0-8e83-2fb2569e14b6",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 4,
+    "lockInDeadline": "2026-02-06T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.208569",
+    "updatedAt": "2026-01-10T18:35:05.208569"
+  },
+  {
+    "id": "c333a591-15a5-4a90-99ec-efa97026974b",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 5,
+    "lockInDeadline": "2026-02-13T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.211030",
+    "updatedAt": "2026-01-10T18:35:05.211030"
+  },
+  {
+    "id": "1b21458c-1782-4d57-a695-3b6aa2fd785b",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 6,
+    "lockInDeadline": "2026-02-20T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.213424",
+    "updatedAt": "2026-01-10T18:35:05.213424"
+  },
+  {
+    "id": "2cee65e3-4452-438a-896d-14d0155db1a5",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 7,
+    "lockInDeadline": "2026-02-27T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.215386",
+    "updatedAt": "2026-01-10T18:35:05.215386"
+  },
+  {
+    "id": "b3b44db9-602b-49a2-9f98-33e423c873eb",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 8,
+    "lockInDeadline": "2026-03-06T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.217249",
+    "updatedAt": "2026-01-10T18:35:05.217249"
+  },
+  {
+    "id": "687bf2e3-aacc-481e-8b0f-2ca67402e4dd",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 9,
+    "lockInDeadline": "2026-03-13T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.218850",
+    "updatedAt": "2026-01-10T18:35:05.218850"
+  },
+  {
+    "id": "b39b89ad-f56d-40ac-9ebf-8384061a6902",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 10,
+    "lockInDeadline": "2026-03-20T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.220486",
+    "updatedAt": "2026-01-10T18:35:05.220486"
+  },
+  {
+    "id": "dcfdabd6-eabb-412b-89f2-1807a02108cb",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 11,
+    "lockInDeadline": "2026-03-27T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.222339",
+    "updatedAt": "2026-01-10T18:35:05.222339"
+  },
+  {
+    "id": "224aba45-da96-4bd0-962c-697422658b83",
+    "leagueId": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "weekNumber": 12,
+    "lockInDeadline": "2026-04-03T18:00:00.000",
+    "createdAt": "2026-01-10T18:35:05.224024",
+    "updatedAt": "2026-01-10T18:35:05.224024"
+  }
+]
