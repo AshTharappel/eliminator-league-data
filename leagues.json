@@ -9,6 +9,24 @@
     "conference": "SEC",
     "isActive": true,
     "createdAt": "2026-01-10T13:15:31.552911",
-    "updatedAt": "2026-01-10T13:15:31.552911"
+    "updatedAt": "2026-01-10T13:15:31.552911",
+    "lockInDay": 5,
+    "lockInHour": 18,
+    "lockInMinute": 0
+  },
+  {
+    "id": "d9e3d6cc-ebf3-4126-a28a-adf8bfda540b",
+    "name": "SEC",
+    "season": 2026,
+    "buyInAmount": 1000.0,
+    "commissionerId": "user_1768085459790",
+    "inviteCode": "AKYSN7",
+    "conference": "SEC",
+    "isActive": true,
+    "createdAt": "2026-01-10T18:34:52.252771",
+    "updatedAt": "2026-01-10T18:34:52.252771",
+    "lockInDay": 5,
+    "lockInHour": 18,
+    "lockInMinute": 0
   }
 ]
