@@ -21,8 +21,8 @@
     "isEliminated": false,
     "eliminatedWeek": null,
     "eliminatedByGameId": null,
-    "buyInPaid": false,
+    "buyInPaid": true,
     "joinedAt": "2026-01-10T22:32:28.203142",
-    "updatedAt": "2026-01-10T22:32:28.203142"
+    "updatedAt": "2026-01-10T22:32:52.312516"
   }
 ]
